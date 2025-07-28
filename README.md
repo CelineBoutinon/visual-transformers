@@ -22,7 +22,6 @@ Les différentes pistes de modélisation explorées et leurs résultats sont dis
   - **slideshow.pdf :** diapositives de présentation du projet
  
 
-
 ## Compétences développées
 
  * Réaliser la présentation orale d’une démarche de modélisation à un client interne/externe
